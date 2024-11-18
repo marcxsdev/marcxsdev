@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/300x80/F55A7C/FFFFFF?text=☄️+Marcxs" alt="Marcxs">
+<p style="color: #F55A7C; font-size: 32px; font-weight: bold;">☄️ Marcxs</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F55A7C&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
