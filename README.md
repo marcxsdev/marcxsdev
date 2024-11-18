@@ -1,4 +1,4 @@
-<p style="color: #F55A7C; font-size: 32px; font-weight: bold;">☄️ Marcxs</p>
+# ☄️ Marcxs
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F55A7C&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
@@ -12,3 +12,13 @@ Olá! Sou Marcos, estudante de Análise e Desenvolvimento de Sistemas e desenvol
   <a href="https://x.com/marcxs_sz"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+---
+
+### 🧰 Linguagens e Ferramentas
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
