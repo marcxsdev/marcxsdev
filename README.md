@@ -1,6 +1,6 @@
-# ☄️ Marcxs
+# ☄️ <h1 style="color:#F55A7C;">Marcxs</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F55A7C&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
