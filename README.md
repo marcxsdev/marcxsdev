@@ -1,4 +1,4 @@
-![Marcos](https://img.shields.io/badge/☄️%20Marcxs-F55A7C?style=for-the-badge&logo=none&logoColor=white)
+<img src="https://via.placeholder.com/300x80/F55A7C/FFFFFF?text=☄️+Marcxs" alt="Marcxs">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F55A7C&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
