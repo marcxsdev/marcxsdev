@@ -23,6 +23,8 @@ Olá! Sou Marcos, estudante de Análise e Desenvolvimento de Sistemas e desenvol
 <img align="left" alt="Tailwind" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
+<br clear="left" />
+
 ### Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/marcos-alexandre-dev/)
