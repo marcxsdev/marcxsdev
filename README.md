@@ -1,6 +1,6 @@
 ![ghbanner](https://github.com/user-attachments/assets/676e30b9-45ff-4927-912d-fac3b809425d)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4B00A8,100:B580F2&reversal=false"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil!👋🏽;Sou+um+Desenvolvedor+Web!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil!👋🏽)](https://git.io/typing-svg)
 
 **Sobre mim**
 
